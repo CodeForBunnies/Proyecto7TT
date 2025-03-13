@@ -6,3 +6,4 @@ Comenzamos creando un entorno virtual en Python con la ayuda de Anaconda, creand
 con Git y GitHub. Usamos las librerías pandas, streamlit, plotly express y numpy.
 
 El dataset usado es vehicles_us proporcionado por la plataforma.
+Link al proyecto en Render: https://proyecto7tt.onrender.com
